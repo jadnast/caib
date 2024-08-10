@@ -16,7 +16,7 @@ const Page = () => {
 
     return (
         <>
-            <h1 className="mx-5 my-8 text-center font-headings text-4xl font-bold text-blue-950">You've completed the test!</h1>
+            <h1 className="mx-5 my-8 text-center font-headings text-4xl font-bold text-blue-950">You&apos;ve completed the test!</h1>
             <div className="m-5 rounded-lg bg-white p-4 pt-8 text-center md:mx-auto md:max-w-4xl text-blue-950">
                 <p>Your score is:</p>
                 <p className="my-3 text-6xl font-bold">{score ? Number(score).toFixed(0) : 'N/A'}%</p>
