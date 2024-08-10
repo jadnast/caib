@@ -1,0 +1,432 @@
+[
+    {
+        "question": "What are the consequences of claims fraud when discovered by the insurer?",
+        "type": "manual",
+        "correct_answer": "The claim is VOID"
+      },
+      {
+        "question": "What is the insurer’s duty if they choose to repair property instead of issue a cash payment?",
+        "type": "manual",
+        "correct_answer": "When the insurer chooses to repair property, it must give written notice within 30 days of receiving the Proof of Loss"
+      },
+      {
+        "question": "An insurance contract is only legally enforceable when it has all of these 3 elements:",
+        "type": "manual",
+        "correct_answer": "Insurable interest, utmost good faith, indemnity"
+      },
+      {
+        "question": "A broker’s most important duty is to…",
+        "type": "manual",
+        "correct_answer": "A broker must always be truthful and disclose all material facts about the client’s risk to the insurer"
+      },
+      {
+        "question": "What is the role of the broker in the insurance process?",
+        "type": "manual",
+        "correct_answer": "An intermediary between the client and the insurer"
+      },
+      {
+        "question": "The law requires that brokers exercise 'reasonable skill, care and diligence'. If they don’t, errors and omissions claims may arise. The main reason for E&O claims is…",
+        "type": "manual",
+        "correct_answer": "Failing to identify client’s loss exposures and offering adequate coverage"
+      },
+      {
+        "question": "The primary function of an underwriter is to…",
+        "type": "manual",
+        "correct_answer": "Select risks that are most likely to be profitable for the insurer"
+      },
+      {
+        "question": "Insurance policies are designed to insure against 'direct damage' only. Yesterday, a fire destroyed 65% of your client’s apartment building. What is likely not covered in this situation?",
+        "type": "manual",
+        "correct_answer": "Loss of rental income"
+      },
+      {
+        "question": "What is a condition?",
+        "type": "manual",
+        "correct_answer": "A requirement to do or not do something"
+      },
+      {
+        "question": "What is a warranty? And give 1 example of a common warranty.",
+        "type": "manual",
+        "correct_answer": "A promise that something is true and will remain true (i.e. a locked vehicle warranty)"
+      },
+      {
+        "question": "What is the definition of insurance?",
+        "type": "manual",
+        "correct_answer": "The undertaking by one person to indemnify another against loss or liability in respect to a certain risk or peril"
+      },
+      {
+        "question": "What is the definition of contract?",
+        "type": "manual",
+        "correct_answer": "An agreement between people to do or not do something"
+      },
+      {
+        "question": "What is the definition of risk?",
+        "type": "manual",
+        "correct_answer": "Chance of financial loss"
+      },
+      {
+        "question": "What is the principle of indemnity?",
+        "type": "manual",
+        "correct_answer": "The principle of indemnity ensures that people receive the actual amount of their loss – no more, no less."
+      },
+      {
+        "question": "What is an insurance binder?",
+        "type": "manual",
+        "correct_answer": "A temporary agreement where the insurer agrees to provide certain coverages pending the issuance of a policy"
+      },
+      {
+        "question": "What is an agency agreement?",
+        "type": "manual",
+        "correct_answer": "A contract between the insurer and the brokerage"
+      },
+      {
+        "question": "What is a void contract?",
+        "type": "manual",
+        "correct_answer": "A contract where one cannot legally support its intended purpose. In this case, the contract never existed."
+      },
+      {
+        "question": "What is a peril?",
+        "type": "manual",
+        "correct_answer": "Cause of loss"
+      },
+      {
+        "question": "What is the difference between a direct loss and an indirect loss?",
+        "type": "manual",
+        "correct_answer": "A direct loss occurs when a peril directly attacks the object of insurance. Indirect losses are losses that arise as a consequence of a direct loss."
+      },
+      {
+        "question": "What is a valued policy?",
+        "type": "manual",
+        "correct_answer": "This is where the insured and insurer agree on the cash value of the property. If a loss occurs, this is the amount that would be paid."
+      },
+      {
+        "question": "What is insurable interest?",
+        "type": "manual",
+        "correct_answer": "One has insurable interest if they would suffer financially from a loss."
+      },
+      {
+        "question": "What is utmost good faith?",
+        "type": "manual",
+        "correct_answer": "With insurance contracts, you must maintain a higher standard of honesty than with other contracts. This applies to the insured, insurer, and the broker."
+      },
+      {
+        "question": "What is a fiduciary?",
+        "type": "manual",
+        "correct_answer": "Someone who has a special position of trust when handling the affairs or funds of another."
+      },
+      {
+        "question": "What is the difference between a friendly fire and a hostile fire?",
+        "type": "manual",
+        "correct_answer": "A friendly fire is a fire contained in its proper receptacle. Once that fire passes outside its boundaries, it becomes a hostile fire (i.e., a spark escapes the fireplace and burns the carpet)."
+      },
+      {
+        "question": "What is the difference between pro-rata and short rate forms of premium return calculation?",
+        "type": "manual",
+        "correct_answer": "Pro-rata means calculating the premium refund by dividing the amount of premium paid by the number of days left remaining on the policy. Short rate is pro-rata minus any administrative charges or cancellation penalty."
+      },
+      {
+        "question": "What is the insured’s responsibility when it comes to providing notice of loss?",
+        "type": "manual",
+        "correct_answer": "The insured or his representative must immediately report the loss to the insurer in writing."
+      },
+      {
+        "question": "What is proof of loss?",
+        "type": "manual",
+        "correct_answer": "A formal verification, under oath, of the details and amounts claimed."
+      },
+      {
+        "question": "What is fraud?",
+        "type": "manual",
+        "correct_answer": "A deliberate attempt to deceive with the aim of financial gain."
+      },
+      {
+        "question": "What is a deductible and why does it exist?",
+        "type": "manual",
+        "correct_answer": "The amount the insured is required to absorb for each loss before the insurer pays out. A deductible exists to reduce the number of petty claims."
+      },
+      {
+        "question": "Explain the idea of subrogation.",
+        "type": "manual",
+        "correct_answer": "When an insurer pays a claim for a loss caused by a third party, the insurer is allowed to place itself 'into the insured’s shoes' and take on their legal rights (i.e., to sue the responsible party)."
+      },
+      {
+        "question": "What is considered 'personal property'?",
+        "type": "manual",
+        "correct_answer": "Contents of the dwelling, personal property used by insured while on premises, and contents usual to the ownership/maintenance of the dwelling."
+      },
+      {
+        "question": "What is the definition of a vacant property?",
+        "type": "manual",
+        "correct_answer": "All occupants have moved out with no intention of returning and no new occupants."
+      },
+      {
+        "question": "What is theft?",
+        "type": "manual",
+        "correct_answer": "All means of taking property without owner’s consent."
+      },
+      {
+        "question": "What is an endorsement?",
+        "type": "manual",
+        "correct_answer": "A written agreement between the insured and the insurer to change some terms of the insurance contract."
+      },
+      {
+        "question": "What is the difference between criminal law and civil law?",
+        "type": "manual",
+        "correct_answer": "Criminal law deals with wrongs against society. Civil law is for disputes between individuals/legal entities."
+      },
+      {
+        "question": "What is a tort?",
+        "type": "manual",
+        "correct_answer": "A wrong done by another person’s breach of legal duty."
+      },
+      {
+        "question": "Provide 3 examples of tort",
+        "type": "manual",
+        "correct_answer": "Trespass, nuisance, defamation, false arrest, invasion of privacy, or negligence."
+      },
+      {
+        "question": "3 elements of a tort:",
+        "type": "manual",
+        "correct_answer": "Duty owed, duty breached & damages resulted (proximately)."
+      },
+      {
+        "question": "Which type of tort is insurable?",
+        "type": "manual",
+        "correct_answer": "Unintentional torts."
+      },
+      {
+        "question": "What is strict liability and when does it apply?",
+        "type": "manual",
+        "correct_answer": "Strict liability assumes a person is guilty until proven innocent. This typically applies to cases where the person is doing something inherently dangerous."
+      },
+      {
+        "question": "What is negligence?",
+        "type": "manual",
+        "correct_answer": "Carelessness: not doing what a reasonable person in the same situation would have done, or doing something a reasonable person would not have done."
+      },
+      {
+        "question": "There are 4 broad types of people who might seek to enter your premises. What are these 4, define them and explain the duty you owe to each.",
+        "type": "manual",
+        "correct_answer": "The types are:\na. Trespasser: entering without permission from occupier\n   - Duty owed: no legal duty owed but cannot set traps or cause intentional harm\nb. Licensee: someone entering for their own purpose with permission from occupier\n   - Duty owed: warn of any hazards known to occupier that licensee would not expect\nc. Invitee: invited in for the benefit of the occupier\n   - Duty owed: protect against dangers known or might reasonably discover\nd. Children: protected by law\n   - Duty owed: premises must be safe from all dangers"
+      },
+      {
+        "question": "What is the liability of a landlord in a building with multiple tenancy?",
+        "type": "manual",
+        "correct_answer": "Responsible for common areas."
+      },
+      {
+        "question": "How do you determine the liability of a bailee for customer’s goods?",
+        "type": "manual",
+        "correct_answer": "Under the 2 types of civil law:\na. Tort law: must exercise ordinary care\nb. Contract law: for responsibilities assumed under contract"
+      },
+      {
+        "question": "Explain the liability of employers for the tort of their employees",
+        "type": "manual",
+        "correct_answer": "Employers are generally liable unless:\na. Employees delegated their work without employer’s consent\nb. While on a frolic of their own\nc. Employee used property without authorization for their own purpose"
+      },
+      {
+        "question": "Explain the concept of general average.",
+        "type": "manual",
+        "correct_answer": "Provides payment for ocean marine losses voluntarily incurred to save the entire venture. The parties whose property was saved would contribute to repay the sacrificed party."
+      },
+      {
+        "question": "Identify 3 categories of risk",
+        "type": "manual",
+        "correct_answer": "Personal risk, property risk, liability risk."
+      },
+      {
+        "question": "Explain the statutory condition of salvage.",
+        "type": "manual",
+        "correct_answer": "The insured is legally required to take reasonable steps to protect property from further damage."
+      },
+      {
+        "question": "What is a physical hazard and provide 3 examples.",
+        "type": "manual",
+        "correct_answer": "Condition related to premises (construction, occupancy, housekeeping)."
+      },
+      {
+        "question": "A moral hazard is…",
+        "type": "manual",
+        "correct_answer": "Subjective characteristics of the applicant that could cause a peril."
+      },
+      {
+        "question": "What is the main difference between 'named perils' and 'all risk' policies as typically provided by insurers?",
+        "type": "manual",
+        "correct_answer": "Named perils cover FSWILLER only. All risks covers all direct losses not excluded."
+      },
+      {
+        "question": "What are the 3 types of property insured under a commercial property policy?",
+        "type": "manual",
+        "correct_answer": "Building, stock, and equipment."
+      },
+      {
+        "question": "Briefly explain explosion coverage under homeowners form.",
+        "type": "manual",
+        "correct_answer": "Covers damage caused by hot water heaters and domestic boilers not due to water hammer."
+      },
+      {
+        "question": "Briefly explain smoke coverage",
+        "type": "manual",
+        "correct_answer": "Covers losses out of sudden, unusual, and faulty operation of stationary furnace."
+      },
+      {
+        "question": "What do homeowners forms typically exclude in the context of impact by aircraft or land vehicles?",
+        "type": "manual",
+        "correct_answer": "Damaged caused by insureds."
+      },
+      {
+        "question": "What do homeowners forms typically exclude in the context of windstorm and hail?",
+        "type": "manual",
+        "correct_answer": "Excludes loss or damage to antennae and satellite dishes."
+      },
+      {
+        "question": "What do homeowners forms typically exclude in the context of theft?",
+        "type": "manual",
+        "correct_answer": "Excludes theft by tenant, employee or member of household."
+      },
+      {
+        "question": "What are 5 coverages in broad form that aren’t in named perils forms?",
+        "type": "manual",
+        "correct_answer": "a. Vehicle impact to insured’s building when driven by insured\nb. All sources of smoke damage excluding industrial operations\nc. Water damage due to freezing or rupturing of water lines\nd. Theft\ne. Collapse (excluding earthquake or faulty workmanship)"
+      },
+      {
+        "question": "What are 5 factors insurers look at to determine the base rate for commercial property?",
+        "type": "manual",
+        "correct_answer": "Construction, protection, occupancy, location, claims history."
+      },
+      {
+        "question": "A 'building' is defined as…",
+        "type": "manual",
+        "correct_answer": "a. Fixed structures\nb. Additions/extensions\nc. Permanent fittings\nd. Materials on premises for regular maintenance\ne. Growing plants inside the building for decoration."
+      },
+      {
+        "question": "Stock is defined as…",
+        "type": "manual",
+        "correct_answer": "Merchandise usual to the business & packing/wrapping/advertising materials."
+      },
+      {
+        "question": "What is the formula for calculating co-insurance?",
+        "type": "manual",
+        "correct_answer": "Did/should x amount of loss."
+      },
+      {
+        "question": "What is the reinstatement clause?",
+        "type": "manual",
+        "correct_answer": "Same amount of insurance after the loss as before the loss."
+      },
+      {
+        "question": "When can an insurer not subrogate against you?",
+        "type": "manual",
+        "correct_answer": "When you have insurable interest in the property."
+      },
+      {
+        "question": "What responsibilities does an insured have under the property protection systems clause?",
+        "type": "manual",
+        "correct_answer": "Notify insurer immediately when they: know of an interruption or flaw, when a monitoring/maintenance contract has lapsed, suspension of police services."
+      },
+      {
+        "question": "What are 2 key coverages under boiler and machinery (aka equipment breakdown)?",
+        "type": "manual",
+        "correct_answer": "a. Damage from explosion of boiler/pressure vessel operating at over 15 psi\nb. Electrical/mechanical breakdown of objects."
+      },
+      {
+        "question": "Do business interruption policies cover any perils excluded the corresponding property policy?",
+        "type": "manual",
+        "correct_answer": "No."
+      },
+      {
+        "question": "What is the basic difference between the earning form and the profits form?",
+        "type": "manual",
+        "correct_answer": "Earnings form ends when property has been replaced. Profits form ends when income is restored to pre-loss levels."
+      },
+      {
+        "question": "What is bodily injury?",
+        "type": "manual",
+        "correct_answer": "Physical injury associated with external causes."
+      },
+      {
+        "question": "What does it mean when an insurer agrees to pay supplementary payments? What is the purpose and give 3 examples.",
+        "type": "manual",
+        "correct_answer": "Supplementary payments: pays for investigating, settling or defending a claim.\na. Cost of defense\nb. Reasonable expenses insured incurred to help in investigation and defense\nc. Court costs\nd. Interest from date of judgment to payment (based on limit of insurance only)."
+      },
+      {
+        "question": "Liability coverages on the homeowners forms do not usually insure damage arising out of business activities, what are the 3 exceptions?",
+        "type": "manual",
+        "correct_answer": "The 3 exceptions:\na. Personal actions during work not directly related to job\nb. Rental portions of your home (up to 2 roomers/boarders)\nc. Temporary or part-time business of an insured person under 21."
+      },
+      {
+        "question": "Name 3 workers compensation plan benefits:",
+        "type": "manual",
+        "correct_answer": "Necessary health care costs, lost earnings, death benefit."
+      },
+      {
+        "question": "What is an elimination period?",
+        "type": "manual",
+        "correct_answer": "A period of self-insurance between the start of disability and the start of benefits."
+      },
+      {
+        "question": "Who has insurable interest under Accident & Sickness insurance?",
+        "type": "manual",
+        "correct_answer": "The insured himself & spouse, employee, child, anyone with pecuniary interest, dependents."
+      },
+      {
+        "question": "Who qualifies as a dependent under travel insurance?",
+        "type": "manual",
+        "correct_answer": "Anyone under 20 (26 if in college), unmarried, living with and receiving full support from insured. Or anyone with mental or physical deformity."
+      },
+      {
+        "question": "Solvency means…",
+        "type": "manual",
+        "correct_answer": "The ability of an insurer to pay all insured losses"
+      },
+      {
+        "question": "What are the fiduciary responsibilities of a broker?",
+        "type": "manual",
+        "correct_answer": "Unearned commissions are to be held in trust and paid back if the policy is cancelled before expiry. Premiums collected must be forwarded to the insurer."
+      },
+      {
+        "question": "According to the Insurance Act when does a contract of insurance takes effect?",
+        "type": "manual",
+        "correct_answer": "12:01 am standard time at the address of the named insured"
+      },
+      {
+        "question": "The removal clause is a common policy clause that requires insurers extend coverage to another location where the insured’s property is kept when…",
+        "type": "manual",
+        "correct_answer": "Necessary Removal (i.e. the insured moved property to protect it from an incoming forest fire)"
+      },
+      {
+        "question": "After the insurer had indemnified the insured for loss, the insurer has the legal right to recover from the at fault party. This right is known as…",
+        "type": "manual",
+        "correct_answer": "The right of subrogation"
+      },
+      {
+        "question": "When is a misrepresentation OK and not considered a violation of your statutory conditions?",
+        "type": "manual",
+        "correct_answer": "When it doesn’t 'hurt' the insurer in some way (i.e. the risk is better than you claimed it was)"
+      },
+      {
+        "question": "What is the definition of misrepresentation?",
+        "type": "manual",
+        "correct_answer": "A misstatement or fraudulent omission of a material fact to the prejudice of the insured"
+      },
+      {
+        "question": "What does an insurer issue when both parties have agreed to change certain policy terms?",
+        "type": "manual",
+        "correct_answer": "An endorsement"
+      },
+      {
+        "question": "The main purpose of an insurance contract is to…",
+        "type": "manual",
+        "correct_answer": "Allow the spread of risk"
+      },
+      {
+        "question": "What are the 4 methods of dealing with risk?",
+        "type": "manual",
+        "correct_answer": "Avoidance, control, retention, transfer"
+      },
+      {
+        "question": "The most basic form of coverage is coverage from fire losses. The Insurance Act in Canada also ensures there is coverage for…",
+        "type": "manual",
+        "correct_answer": "Explosion (of natural, coal or manufactured gas) and lightning (excluding damage to electrical devices)"
+      }
+]

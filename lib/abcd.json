@@ -1,0 +1,170 @@
+[
+    {
+      "id": 1,
+      "question": "Consideration is…",
+      "type": "abcd",
+      "answers": {
+        "a": "The law of insurance",
+        "b": "A promise between parties",
+        "c": "A contract's binding force",
+        "d": "An exchange of something of value"
+      },
+      "correct_answer": "d"
+    },
+    {
+      "id": 2,
+      "question": "A stock company is…",
+      "type": "abcd",
+      "answers": {
+        "a": "A company that invests in other companies",
+        "b": "A company owned by stockholders who provide the capital to start and run the company",
+        "c": "Is owned by customers of the company",
+        "d": "A company that owns livestock"
+      },
+      "correct_answer": "b"
+    },
+    {
+      "id": 3,
+      "question": "The difference between pure and speculative risk is…",
+      "type": "abcd",
+      "answers": {
+        "a": "Speculative risk is insurable but pure risk is not",
+        "b": "Speculative risk means that there is a chance to gain or lose whereas one can only lose with pure risk",
+        "c": "Speculative risk means that there is only the chance to lose whereas pure risk means you have a chance to win too",
+        "d": "Speculative risk is a term invented by marine insurance companies in 1864"
+      },
+      "correct_answer": "b"
+    },
+    {
+      "id": 4,
+      "question": "A legally enforceable agreement between 2 or more parties is a…",
+      "type": "abcd",
+      "answers": {
+        "a": "A contract",
+        "b": "An agreement",
+        "c": "A will",
+        "d": "A contract of consideration"
+      },
+      "correct_answer": "a"
+    },
+    {
+      "id": 5,
+      "question": "A reduction in value is called a…",
+      "type": "abcd",
+      "answers": {
+        "a": "Loss",
+        "b": "Unlucky situation",
+        "c": "Claim",
+        "d": "Transfer"
+      },
+      "correct_answer": "a"
+    },
+    {
+      "id": 6,
+      "question": "What elements must be present to constitute a legal contract?",
+      "type": "abcd",
+      "answers": {
+        "a": "Parties to the contract, the contract itself, consideration",
+        "b": "Parties to the contract, a written document, consideration, and legal purpose",
+        "c": "Agreement, consideration, legality of object, legal capacity, genuine intention",
+        "d": "Competent parties, consideration, warranty, and legal purpose"
+      },
+      "correct_answer": "c"
+    },
+    {
+      "id": 7,
+      "question": "The act of intentionally giving up some right or privilege is…",
+      "type": "abcd",
+      "answers": {
+        "a": "A representation",
+        "b": "A transfer",
+        "c": "A waiver",
+        "d": "Subrogation"
+      },
+      "correct_answer": "c"
+    },
+    {
+      "id": 8,
+      "question": "Insurance purchased by an insurance company is called",
+      "type": "abcd",
+      "answers": {
+        "a": "Reinsurance",
+        "b": "Risk avoidance insurance",
+        "c": "Full protection",
+        "d": "Umbrella insurance"
+      },
+      "correct_answer": "a"
+    },
+    {
+      "id": 9,
+      "question": "A person has a few options when dealing with financial risk: avoidance, retention, control, and transfer. Which is usually the best option for most people?",
+      "type": "abcd",
+      "answers": {
+        "a": "Avoidance",
+        "b": "Retention",
+        "c": "Transfer",
+        "d": "Control"
+      },
+      "correct_answer": "c"
+    },
+    {
+      "id": 10,
+      "question": "Who below has the legal capacity to enter into an insurance contract?",
+      "type": "abcd",
+      "answers": {
+        "a": "Buck's Consulting",
+        "b": "Black's Hardware",
+        "c": "Tess' Restaurants Ltd.",
+        "d": "Jerry's Convenience"
+      },
+      "correct_answer": "c"
+    },
+    {
+      "id": 11,
+      "question": "A binder is…",
+      "type": "abcd",
+      "answers": {
+        "a": "An interim contract of insurance",
+        "b": "Permitted for all risks",
+        "c": "Binds the insured to certain terms specified by the insurer",
+        "d": "Binds the insured to certain terms specific by the brokerage"
+      },
+      "correct_answer": "a"
+    },
+    {
+      "id": 12,
+      "question": "In Canada, the insurance industry is regulated on both a federal and provincial level. The provincial government is responsible for…",
+      "type": "abcd",
+      "answers": {
+        "a": "Supervising the terms of insurance contracts",
+        "b": "Licensing insurance companies to do business in the province",
+        "c": "None of the above",
+        "d": "Both a and b"
+      },
+      "correct_answer": "d"
+    },
+    {
+      "id": 13,
+      "question": "Regarding the statutory condition around termination, which 1 of the 4 provisions is wrong?",
+      "type": "abcd",
+      "answers": {
+        "a": "Your client does not have to give the insurer any prior notice to cancel",
+        "b": "On termination, the insured is not entitled to a premium refund",
+        "c": "The insurer has the right to change the policy administration costs so refunds are calculated on a short-rate basis",
+        "d": "Written request for termination, signed by all parties named on the policy must be provided to insurer"
+      },
+      "correct_answer": "b"
+    },
+    {
+      "id": 14,
+      "question": "When an underwriter looks at the financial and claims history of the applicant, they are looking for…",
+      "type": "abcd",
+      "answers": {
+        "a": "Morale hazard",
+        "b": "Moral hazard",
+        "c": "Physical hazard",
+        "d": "Risks"
+      },
+      "correct_answer": "b"
+    }
+  ]
