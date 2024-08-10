@@ -10,7 +10,7 @@ const fontSans = FontSans({
 })
  
 export const viewport: Viewport = {
-  themeColor: '#e11d48',
+  themeColor: '#172554',
 }
 
 export const metadata: Metadata = {
@@ -59,6 +59,11 @@ export const metadata: Metadata = {
 export default function RootLayout({children,}: Readonly<{children: React.ReactNode;}>) {
   return (
     <html lang="en" suppressHydrationWarning>
+        <meta property="og:image" content="/brand/cover.png"></meta>
+        <meta itemProp={"image"} content="/brand/cover.png"></meta>
+        <link rel="image_src" href="/brand/cover.png"></link>
+        <meta property="og:image:width" content="1200"></meta>
+        <meta property="og:image:height" content="630"></meta>
       <head />
       <body className={cn("min-h-screen min-w-80 bg-white font-sans",fontSans.variable)}>
         <div className="min-h-screen">
