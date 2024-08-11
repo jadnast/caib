@@ -166,5 +166,677 @@
         "d": "Risks"
       },
       "correct_answer": "b"
+    },
+    {
+      "id": 15,
+      "question": "Which of the following best describes 'Pure Risk'?",
+      "type": "abcd",
+      "answers": {
+        "a": "Risk where there is potential for either loss or gain.",
+        "b": "Risk where there is only potential for loss, not gain.",
+        "c": "Risk managed through insurance to guarantee a profit.",
+        "d": "Risk that is speculative and typically associated with gambling."
+      },
+      "correct_answer": "b"
+    },
+    {
+      "id": 16,
+      "question": "What is the primary role of a 'coinsurance' clause in property insurance policies?",
+      "type": "abcd",
+      "answers": {
+        "a": "It ensures that property values are assessed accurately.",
+        "b": "It provides additional coverage beyond the policy limit.",
+        "c": "It encourages policyholders to insure their property to a proper value.",
+        "d": "It covers all risks without requiring a deductible."
+      },
+      "correct_answer": "c"
+    },
+    {
+      "id": 17,
+      "question": "Sarah Taylor's bakery suffered damage due to a windstorm. According to the 'Named Perils' coverage, which peril is not typically included?",
+      "type": "abcd",
+      "answers": {
+        "a": "Fire",
+        "b": "Theft",
+        "c": "Vandalism",
+        "d": "Earthquake"
+      },
+      "correct_answer": "d"
+    },
+    {
+      "id": 18,
+      "question": "In property insurance, what does 'ACV' stand for and what does it represent?",
+      "type": "abcd",
+      "answers": {
+        "a": "Actual Cash Value; the replacement cost minus depreciation.",
+        "b": "Assured Cumulative Value; the total value assured over the policy term.",
+        "c": "Aggregated Claim Value; the total of all claims made in one year.",
+        "d": "Adjusted Claim Value, the value of a claim after adjustments."
+      },
+      "correct_answer": "a"
+    },
+    {
+      "id": 19,
+      "question": "What is the primary purpose of liability insurance?",
+      "type": "abcd",
+      "answers": {
+        "a": "To cover the policyholder's personal injuries and property damage.",
+        "b": "To protect the policyholder against the financial consequences of causing harm to others.",
+        "c": "To provide legal representation in all civil and criminal cases.",
+        "d": "To increase the policyholder’s legal knowledge."
+      },
+      "correct_answer": "b"
+    },
+    {
+      "id": 20,
+      "question": "What does 'subrogation' refer to in the context of insurance?",
+      "type": "abcd",
+      "answers": {
+        "a": "The process of a policyholder's risk assessment.",
+        "b": "The transfer of the right to seek reimbursement from the third party responsible for a loss.",
+        "c": "A method of determining premiums based on risk.",
+        "d": "The cancellation of a policy due to non-disclosure."
+      },
+      "correct_answer": "b"
+    },
+    {
+      "id": 21,
+      "question": "What are the typical duties of an insurance broker with respect to errors and omissions insurance?",
+      "type": "abcd",
+      "answers": {
+        "a": "To sell as many policies as possible regardless of client needs.",
+        "b": "To ensure accurate policy applications and timely communication with clients.",
+        "c": "To handle claims adjustment and settlement procedures.",
+        "d": "To provide financial advice unrelated to insurance."
+      },
+      "correct_answer": "b"
+    },
+    {
+      "id": 22,
+      "question": "What function does the 'deductible' serve in an insurance policy?",
+      "type": "abcd",
+      "answers": {
+        "a": "To prevent frequent small claims that are costly for insurers to handle.",
+        "b": "To increase the total coverage, amount available under the policy.",
+        "c": "To provide a fund that the insured can use to cover small losses.",
+        "d": "To decrease the premium by dividing the risk between the insurer and the insured."
+      },
+      "correct_answer": "a"
+    },
+    {
+      "id": 23,
+      "question": "What does the term 'endorsement' refer to in an insurance policy?",
+      "type": "abcd",
+      "answers": {
+        "a": "A formal declaration by a witness to confirm the policy's validity.",
+        "b": "A statement of satisfaction from a previous insured client.",
+        "c": "A marketing tool used to promote the insurer's products.",
+        "d": "A document that amends or adds coverage to the original insurance contract."
+      },
+      "correct_answer": "d"
+    },
+    {
+      "id": 24,
+      "question": "What is the effect of a 'pro rata cancellation' of an insurance policy?",
+      "type": "abcd",
+      "answers": {
+        "a": "It entitles the insured to a refund of the unused premium based on the time left on the policy.",
+        "b": "It allows the insurer to cancel the policy without refunding any premium.",
+        "c": "It enables the insured to increase coverage limits mid-policy without penalties.",
+        "d": "It permits the insurer to distribute risk among various policies."
+      },
+      "correct_answer": "a"
+    },
+    {
+      "id": 25,
+      "question": "Which of the following best describes 'Blanket Coverage' in property insurance?",
+      "type": "abcd",
+      "answers": {
+        "a": "A special form of insurance for household textiles and goods.",
+        "b": "Insurance coverage that is applied uniformly to all insureds regardless of their risk profile.",
+        "c": "Coverage that applies to various items under a single limit of insurance.",
+        "d": "An automatic coverage for any new property acquired during the policy period."
+      },
+      "correct_answer": "c"
+    },
+    {
+      "id": 26,
+      "question": "In liability insurance, what is 'Third Party Coverage'?",
+      "type": "abcd",
+      "answers": {
+        "a": "Protection for the insurance broker against claims made by the insured.",
+        "b": "Coverage that protects the insurer against lawsuits from other insurance companies.",
+        "c": "A policy extension that covers additional insured parties not named in the policy.",
+        "d": "Insurance that covers injuries or damages sustained by someone other than the policyholder."
+      },
+      "correct_answer": "d"
+    },
+    {
+      "id": 27,
+      "question": "Which of the following is a correct application of the 'Loss Payable Clause'?",
+      "type": "abcd",
+      "answers": {
+        "a": "It reduces the total amount payable by the amount of deductible.",
+        "b": "It increases the policy limits based on inflation and cost of living adjustments.",
+        "c": "It determines how much a claimant pays out-of-pocket after an insured loss.",
+        "d": "It specifies to whom the insurance payments are made in the event of a loss."
+      },
+      "correct_answer": "d"
+    },
+    {
+      "id": 28,
+      "question": "What does 'Inland Marine Insurance' typically cover?",
+      "type": "abcd",
+      "answers": {
+        "a": "Insured property while they are transported over land.",
+        "b": "Losses at sea that occur within territorial waters.",
+        "c": "Only maritime shipments that traverse inland waterways.",
+        "d": "Personal watercraft used on lakes and rivers within the country."
+      },
+      "correct_answer": "a"
+    },
+    {
+      "id": 29,
+      "question": "What principle is illustrated by requiring 'Utmost Good Faith' in insurance policies?",
+      "type": "abcd",
+      "answers": {
+        "a": "Insurers are required to guarantee the accuracy of all statements made in the insurance application.",
+        "b": "Parties to the insurance contract must act in a manner that discourages litigation.",
+        "c": "Both parties to the insurance contract are expected to act honestly and not mislead or withhold critical information.",
+        "d": "The insured must disclose all previous insurance claims, regardless of relevance."
+      },
+      "correct_answer": "c"
+    },
+    {
+      "id": 30,
+      "question": "In property insurance, what does 'Improvements and Betterments' cover in a tenant's insurance policy?",
+      "type": "abcd",
+      "answers": {
+        "a": "Structural changes made by the property owner that increase the rental value.",
+        "b": "Changes made by a tenant at their expense that enhance the property's value.",
+        "c": "Routine maintenance tasks that a tenant must perform under a lease agreement.",
+        "d": "All personal property brought into the rented space by the tenant."
+      },
+      "correct_answer": "b"
+    },
+    {
+      "id": 31,
+      "question": "What is the purpose of the 'Additional Insured Endorsement' in a commercial liability policy?",
+      "type": "abcd",
+      "answers": {
+        "a": "To increase the limits of liability for existing insureds without changing other terms of the policy.",
+        "b": "To cover all parties involved in a contractual agreement without individual evaluations.",
+        "c": "To extend coverage to individuals or entities not automatically included as insureds under the policy.",
+        "d": "To allow for additional premiums to be charged for extending coverage."
+      },
+      "correct_answer": "c"
+    },
+    {
+      "id": 32,
+      "question": "What function does the 'Automatic Reinstatement Clause' serve in a property insurance policy?",
+      "type": "abcd",
+      "answers": {
+        "a": "It automatically adjusts the premium after a claim to reflect the increased risk.",
+        "b": "It allows for the automatic renewal of the policy at the end of its term.",
+        "c": "It provides a way for the insurer to automatically increase coverage limits annually.",
+        "d": "It reinstates the original amount of coverage after a loss without the insured needing to apply."
+      },
+      "correct_answer": "d"
+    },
+    {
+      "id": 33,
+      "question": "What is the most common cause of 'Errors and Omissions' insurance claims for insurance brokers?",
+      "type": "abcd",
+      "answers": {
+        "a": "To insure against physical damages to the office properties.",
+        "b": "To protect against claims of inadequate coverage provided to clients.",
+        "c": "To provide legal defense costs associated with employment practices.",
+        "d": "To cover clerical errors in the processing of insurance applications."
+      },
+      "correct_answer": "b"
+    },
+    {
+      "id": 34,
+      "question": "What does the 'vacancy permit' in a property insurance policy allow?",
+      "type": "abcd",
+      "answers": {
+        "a": "Automatic coverage for any new tenants moving into the property",
+        "b": "Coverage for losses due to theft or vandalism without additional endorsements.",
+        "c": "Permission for the insured to leave the property vacant beyond the standard period without loss of coverage.",
+        "d": "Reduction in premium due to decreased risk during periods of vacancy."
+      },
+      "correct_answer": "c"
+    },
+    {
+      "id": 35,
+      "question": "Which coverage would be applicable under a 'Builders Risk' insurance policy?",
+      "type": "abcd",
+      "answers": {
+        "a": "Coverage for property damage during construction, such as materials and partially completed structures.",
+        "b": "Liability coverage for injuries to workers on the construction site.",
+        "c": "Long-term warranties for the structural integrity of the completed building.",
+        "d": "Protection against financial losses due to construction delays."
+      },
+      "correct_answer": "a"
+    },
+    {
+      "id": 36,
+      "question": "What is the 'right of salvage' in an insurance context?",
+      "type": "abcd",
+      "answers": {
+        "a": "The right of the insured to dispose of damaged property in any manner they choose.",
+        "b": "The insurer's right to take possession of the property after payment of a total loss.",
+        "c": "The right of a third party to claim a portion of the insurance payout when they contribute to recovery efforts.",
+        "d": "The insured's right to reclaim the damaged property after a loss settlement."
+      },
+      "correct_answer": "b"
+    },
+    {
+      "id": 37,
+      "question": "What defines 'Consequential Loss' in insurance terms?",
+      "type": "abcd",
+      "answers": {
+        "a": "Legal liabilities resulting from the actions of the insured.",
+        "b": "Direct losses that occur as a result of physical damage to covered property.",
+        "c": "Losses that occur without any direct physical damage to the insured property.",
+        "d": "Indirect losses resulting from the direct damages, such as loss of income."
+      },
+      "correct_answer": "d"
+    },
+    {
+      "id": 38,
+      "question": "Which statement about 'Aggregate Limits' in an insurance policy is correct?",
+      "type": "abcd",
+      "answers": {
+        "a": "They limit the amount the insurer will pay for a single claim.",
+        "b": "They set a minimum threshold of coverage that must be met each policy term.",
+        "c": "They cap the total amount paid for all claims within a policy period.",
+        "d": "They require the insured to pay a certain amount before the insurer pays a claim."
+      },
+      "correct_answer": "c"
+    },
+    {
+      "id": 39,
+      "question": "What does the 'sublimit' in an insurance policy specify?",
+      "type": "abcd",
+      "answers": {
+        "a": "The threshold beyond which the insurance coverage no longer applies.",
+        "b": "The maximum amount payable for certain coverages, which is less than the overall policy limit.",
+        "c": "A temporary increase in coverage limits for specific events.",
+        "d": "A minimum required limit that the insured must purchase."
+      },
+      "correct_answer": "b"
+    },
+    {
+      "id": 40,
+      "question": "What role does 'proportional reinsurance' play in an insurance company's operations?",
+      "type": "abcd",
+      "answers": {
+        "a": "It allows insurers to fully transfer their risks to another single entity.",
+        "b": "It provides insurers with a method to manage their investment portfolios.",
+        "c": "It assists insurers in meeting regulatory solvency requirements without sharing risks.",
+        "d": "It helps insurers cover large or catastrophic risks by sharing them with other insurers."
+      },
+      "correct_answer": "d"
+    },
+    {
+      "id": 41,
+      "question": "What is 'indemnity' in the context of insurance?",
+      "type": "abcd",
+      "answers": {
+        "a": "The principle that insurance policies should only compensate the insured to the extent of their financial loss.",
+        "b": "The requirement for insurers to cover all losses, regardless of the coverage limits.",
+        "c": "A guarantee by the insurer to replace lost items with new ones.",
+        "d": "The obligation of the insurer to provide legal representation for the insured in all disputes."
+      },
+      "correct_answer": "a"
+    },
+    {
+      "id": 42,
+      "question": "How does 'contributory negligence' affect an insurance claim?",
+      "type": "abcd",
+      "answers": {
+        "a": "It nullifies any claim if the insured contributed to the incident in any way.",
+        "b": "It only applies to cases involving multiple insured parties.",
+        "c": "It reduces the compensation based on the insured's part in causing their own loss.",
+        "d": "It increases the payout if the insured can prove the third party also contributed to the loss."
+      },
+      "correct_answer": "c"
+    },
+    {
+      "id": 43,
+      "question": "What is 'retroactive date' in liability insurance?",
+      "type": "abcd",
+      "answers": {
+        "a": "The date before which coverage is not applicable for any claims made under a policy.",
+        "b": "The date marking the beginning of a continuous coverage period without lapse.",
+        "c": "The date after which all claims are denied.",
+        "d": "The expiration date of the policy after which coverage can no longer be extended."
+      },
+      "correct_answer": "a"
+    },
+    {
+      "id": 44,
+      "question": "Which scenario best exemplifies 'vicarious liability'?",
+      "type": "abcd",
+      "answers": {
+        "a": "An individual is held responsible for damages caused by their own actions.",
+        "b": "An employer is held responsible for damages caused by the actions of their employees while working.",
+        "c": "A contractor is held liable for all damages caused by subcontractors.",
+        "d": "A company is held liable for damages caused by a natural disaster."
+      },
+      "correct_answer": "b"
+    },
+    {
+      "id": 45,
+      "question": "What does 'waiver of subrogation' mean in an insurance policy?",
+      "type": "abcd",
+      "answers": {
+        "a": "The insured waives their right to cancel the insurance policy.",
+        "b": "The insured waives the right to claim any insurance for a particular loss.",
+        "c": "The insurer waives all rights to inspect the insured property.",
+        "d": "The insurer waives its right to recover the paid amount from a third party who caused the loss."
+      },
+      "correct_answer": "d"
+    },
+    {
+      "id": 46,
+      "question": "In property insurance, what is meant by 'agreed value'?",
+      "type": "abcd",
+      "answers": {
+        "a": "The value of insured property as agreed upon by both the insurer and the insured at the time of policy issuance.",
+        "b": "A periodically adjusted value that reflects changes in market conditions.",
+        "c": "The amount determined after a claim is filed based on the loss incurred.",
+        "d": "The maximum amount the insurer will pay regardless of the actual cash value at the time of loss."
+      },
+      "correct_answer": "a"
+    },
+    {
+      "id": 47,
+      "question": "What is the purpose of an 'insurance binder'?",
+      "type": "abcd",
+      "answers": {
+        "a": "To bind the insured to the insurer for a fixed number of years.",
+        "b": "To bind the insurer legally to provide permanent coverage.",
+        "c": "To provide temporary evidence of insurance coverage until a formal policy is issued.",
+        "d": "To legally bind the insured to a contract without their consent."
+      },
+      "correct_answer": "c"
+    },
+    {
+      "id": 48,
+      "question": "What is the function of 'No Benefit to Bailee' condition in property insurance?",
+      "type": "abcd",
+      "answers": {
+        "a": "It excludes coverage for property under the care of a bailee.",
+        "b": "It prevents the bailee from benefiting from the insurance policy taken out by the bailor.",
+        "c": "It provides additional coverage to protect the bailee against liability.",
+        "d": "It ensures that any payments due under the policy are paid directly to the bailor, not the bailee."
+      },
+      "correct_answer": "b"
+    },
+    {
+      "id": 49,
+      "question": "What is typically covered under 'Errors and Omissions' insurance for insurance agents?",
+      "type": "abcd",
+      "answers": {
+        "a": "Financial losses due to wrongful acts in the professional services provided.",
+        "b": "Losses due to natural disasters affecting the business premises.",
+        "c": "Physical damages to the office from operational mistakes.",
+        "d": "Personal injury claims from workplace accidents."
+      },
+      "correct_answer": "a"
+    },
+    {
+      "id": 50,
+      "question": "Which statement about the 'Duty to Defend' provision in liability insurance is correct?",
+      "type": "abcd",
+      "answers": {
+        "a": "The provision is optional and can be purchased as an endorsement.",
+        "b": "The insured must defend the insurer in any related legal actions.",
+        "c": "The insurer is obligated to sue the third party on behalf of the insured.",
+        "d": "The insurer has to provide legal defense for the insured irrespective of the lawsuit's outcome."
+      },
+      "correct_answer": "d"
+    },
+    {
+      "id": 51,
+      "question": "How do 'Scheduled Property Endorsements' modify an insurance policy?",
+      "type": "abcd",
+      "answers": {
+        "a": "By scheduling periodic reviews of the property’s value.",
+        "b": "By extending coverage to additional properties not listed in the main policy.",
+        "c": "By specifically listing property items with individual limits detailed for each.",
+        "d": "By excluding certain properties from coverage under the policy."
+      },
+      "correct_answer": "c"
+    },
+    {
+      "id": 52,
+      "question": "What is 'Reinsurance Treaty' in the context of insurance?",
+      "type": "abcd",
+      "answers": {
+        "a": "An arrangement where one insurer agrees to indemnify another for all or part of certain risks.",
+        "b": "A legal agreement between the insured and insurer to settle claims out of court.",
+        "c": "A pact between countries to standardize insurance regulations.",
+        "d": "An agreement between insurers to jointly underwrite large policies."
+      },
+      "correct_answer": "a"
+    },
+    {
+      "id": 53,
+      "question": "What does the 'extra expense' coverage in a business insurance policy address?",
+      "type": "abcd",
+      "answers": {
+        "a": "Penalties paid for not meeting contractual deadlines due to delays caused by insured perils.",
+        "b": "Overtime wages paid to employees during the recovery period.",
+        "c": "Costs associated with expedited shipping of replacement equipment.",
+        "d": "Additional expenses incurred to continue operations after a covered loss."
+      },
+      "correct_answer": "d"
+    },
+    {
+      "id": 54,
+      "question": "What is the purpose of 'stop loss' reinsurance?",
+      "type": "abcd",
+      "answers": {
+        "a": "To discontinue an insurance policy once it is no longer profitable.",
+        "b": "To halt coverage once a specific loss threshold is reached annually.",
+        "c": "To limit an insurer's loss on a specific claim or entire portfolio to a set amount.",
+        "d": "To prevent the reinsurer from exceeding their loss limits."
+      },
+      "correct_answer": "c"
+    },
+    {
+      "id": 55,
+      "question": "What are 'declared values' in the context of property insurance?",
+      "type": "abcd",
+      "answers": {
+        "a": "Statutory values declared by the government for all insured properties.",
+        "b": "The amounts determined by the insured and declared to the insurer for coverage purposes.",
+        "c": "The depreciated values of property at the time of loss.",
+        "d": "The values set by the insurance company based on property appraisals."
+      },
+      "correct_answer": "b"
+    },
+    {
+      "id": 56,
+      "question": "In terms of policy structure, what is a ‘broad form’ coverage in property insurance?",
+      "type": "abcd",
+      "answers": {
+        "a": "Coverage that specifies only the perils not insured against, covering all others.",
+        "b": "A flexible policy structure that adjusts perils covered based on the insured's changing needs.",
+        "c": "A policy that allows the insured to open claims for any previously excluded perils.",
+        "d": "Insurance that is open to all types of properties regardless of their risk levels."
+      },
+      "correct_answer": "a"
+    },
+    {
+      "id": 57,
+      "question": "What is the main purpose of 'business interruption' insurance?",
+      "type": "abcd",
+      "answers": {
+        "a": "To cover the costs of relocating a business after a covered loss.",
+        "b": "To provide a lump sum to help a business restart after a total loss.",
+        "c": "To cover the increased costs of advertising following a significant business interruption.",
+        "d": "To compensate for lost income and fixed expenses when business operations are disrupted due to a covered peril."
+      },
+      "correct_answer": "d"
+    },
+    {
+      "id": 58,
+      "question": "What does 'umbrella liability insurance' provide?",
+      "type": "abcd",
+      "answers": {
+        "a": "Basic liability coverage for a wide range of potential business risks.",
+        "b": "Insurance for claims that are specifically excluded in standard liability policies.",
+        "c": "Coverage that acts as a secondary policy for claims that exceed underlying policy limits.",
+        "d": "A single, comprehensive policy that replaces all other liability coverages."
+      },
+      "correct_answer": "c"
+    },
+    {
+      "id": 59,
+      "question": "In property insurance, what does 'replacement cost' coverage entail?",
+      "type": "abcd",
+      "answers": {
+        "a": "A fixed amount agreed upon when the policy is purchased, reflecting the item's value at that time.",
+        "b": "Compensation for the item's original purchase price regardless of current market value.",
+        "c": "Payment for the cost of replacing the damaged property without deduction for depreciation.",
+        "d": "Reimbursement based on the property's value at the time of loss, including appreciation."
+      },
+      "correct_answer": "c"
+    },
+    {
+      "id": 60,
+      "question": "Which feature is characteristic of 'claims-made' liability policies?",
+      "type": "abcd",
+      "answers": {
+        "a": "They automatically extend coverage indefinitely for any claim related to incidents during the policy period.",
+        "b": "They cover incidents that occur during the policy period regardless of when claims are filed.",
+        "c": "They allow for retroactive claims from incidents that predate the policy inception.",
+        "d": "They provide coverage only for claims actually filed during the policy period, regardless of when the incident occurred."
+      },
+      "correct_answer": "d"
+    },
+    {
+      "id": 61,
+      "question": "What role does the 'coinsurance clause' play in property insurance policies?",
+      "type": "abcd",
+      "answers": {
+        "a": "It penalizes underinsurance by reducing payouts on claims if the property is not insured to a specified percentage of its value.",
+        "b": "It allows multiple insurers to share large property risks proportionally.",
+        "c": "It requires the insured to always maintain insurance equal to the full value of the property.",
+        "d": "It guarantees full compensation for losses, regardless of the property’s insured value."
+      },
+      "correct_answer": "a"
+    },
+    {
+      "id": 62,
+      "question": "What does the 'severability of interest' clause in a liability insurance policy ensure?",
+      "type": "abcd",
+      "answers": {
+        "a": "It allows the insurer to sever the contract with one insured without affecting coverage for others.",
+        "b": "It limits the interest an insurer has in the proceeds from the sale of damaged property.",
+        "c": "It treats each insured as having a separate policy for the purpose of coverage.",
+        "d": "It divides the policy limits equally among all parties."
+      },
+      "correct_answer": "c"
+    },
+    {
+      "id": 63,
+      "question": "How does an 'exclusion' modify an insurance policy?",
+      "type": "abcd",
+      "answers": {
+        "a": "By reducing the premium based on the risks excluded from coverage.",
+        "b": "By specifically detailing the perils that the policy will not cover.",
+        "c": "By extending coverage to risks not named in the policy.",
+        "d": "By including additional parties under the coverage."
+      },
+      "correct_answer": "b"
+    },
+    {
+      "id": 64,
+      "question": "What is the primary benefit of 'loss prevention' programs in insurance?",
+      "type": "abcd",
+      "answers": {
+        "a": "They cover all expenses associated with preventing future losses.",
+        "b": "They guarantee no losses will occur.",
+        "c": "They eliminate the need for physical insurance inspections.",
+        "d": "They reduce the likelihood of claims by identifying and mitigating potential risks."
+      },
+      "correct_answer": "d"
+    },
+    {
+      "id": 65,
+      "question": "Which coverage would typically be found in a 'commercial general liability' (CGL) insurance policy?",
+      "type": "abcd",
+      "answers": {
+        "a": "Bodily injury and property damage liability.",
+        "b": "Direct damages to company vehicles.",
+        "c": "Professional errors and omissions.",
+        "d": "Loss of income due to business interruptions."
+      },
+      "correct_answer": "a"
+    },
+    {
+      "id": 66,
+      "question": "What is the purpose of the 'declarations page' in an insurance policy?",
+      "type": "abcd",
+      "answers": {
+        "a": "To declare the insurer’s commitment to uphold the policy terms.",
+        "b": "To provide a detailed list of all claims made during the policy term.",
+        "c": "To outline the specific terms, coverages, limits, and identifying information of the policy.",
+        "d": "To declare the policy null and void in the case of fraud."
+      },
+      "correct_answer": "c"
+    },
+    {
+      "id": 67,
+      "question": "What is typically included under 'additional coverages' in homeowners' insurance policies?",
+      "type": "abcd",
+      "answers": {
+        "a": "Coverage for personal property outside the home.",
+        "b": "Legal liability coverage for injuries occurring on the property.",
+        "c": "Limited coverage for specific, additional perils such as debris removal or credit card theft.",
+        "d": "Additional living expenses when the home is uninhabitable."
+      },
+      "correct_answer": "b"
+    },
+    {
+      "id": 68,
+      "question": "What is 'retention' in the context of risk management?",
+      "type": "abcd",
+      "answers": {
+        "a": "The portion of loss that the insured retains, typically the deductible.",
+        "b": "The amount of risk the insurer retains without reinsurance.",
+        "c": "Keeping risk management processes internally without outsourcing.",
+        "d": "The process of renewing a policy to retain a client."
+      },
+      "correct_answer": "a"
+    },
+    {
+      "id": 69,
+      "question": "What is the function of a 'certificate of insurance'?",
+      "type": "abcd",
+      "answers": {
+        "a": "To certify that an insurance company is licensed to operate.",
+        "b": "To document the completion of an insurance training certificate.",
+        "c": "To provide proof of insurance coverage to interested third parties.",
+        "d": "To confirm the authenticity of an insurance claim."
+      },
+      "correct_answer": "c"
+    },
+    {
+      "id": 70,
+      "question": "When an underwriter looks at the financial and claims history of the applicant, they are looking for…",
+      "type": "abcd",
+      "answers": {
+        "a": "Morale hazard",
+        "b": "Moral hazard",
+        "c": "Physical hazard",
+        "d": "Risks"
+      },
+      "correct_answer": "b"
     }
   ]

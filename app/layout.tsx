@@ -1,5 +1,6 @@
 import type { Metadata, Viewport } from "next";
 import { Inter as FontSans } from "next/font/google";
+import Head from 'next/head'
 import { cn } from "@/lib/utils";
 
 import "./globals.css";
@@ -59,11 +60,13 @@ export const metadata: Metadata = {
 export default function RootLayout({children,}: Readonly<{children: React.ReactNode;}>) {
   return (
     <html lang="en" suppressHydrationWarning>
+      <Head>
         <meta property="og:image" content="/brand/cover.png"></meta>
         <meta itemProp={"image"} content="/brand/cover.png"></meta>
         <link rel="image_src" href="/brand/cover.png"></link>
         <meta property="og:image:width" content="1200"></meta>
         <meta property="og:image:height" content="630"></meta>
+      </Head>
       <head />
       <body className={cn("min-h-screen min-w-80 bg-white font-sans",fontSans.variable)}>
         <div className="min-h-screen">
